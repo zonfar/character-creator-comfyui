@@ -1,0 +1,4 @@
+Pillow==12.3.0
+psd-tools==1.19.0
+requests==2.34.2
+websocket-client==1.9.0

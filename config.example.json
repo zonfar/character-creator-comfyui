@@ -1,0 +1,18 @@
+{
+  "comfy_root": "C:/Programs/ComfyUI_windows_portable/ComfyUI",
+  "server": "http://127.0.0.1:8188",
+  "reserve_vram_gb": 2,
+  "conservative_memory": false,
+  "checkpoint": "sd_xl_base_1.0.safetensors",
+  "edit_model": "gguf/Qwen_Image_Edit-Q5_0.gguf",
+  "edit_loader": "UnetLoaderGGUF",
+  "text_encoder": "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+  "vae": "qwen_image_vae.safetensors",
+  "edit_steps": 20,
+  "edit_cfg": 2.5,
+  "reference_vae": "",
+  "reference_loras": [],
+  "edit_loras": [],
+  "edit_family": "qwen",
+  "edit_resolution": 1024
+}
