@@ -16,4 +16,4 @@ I also want to make this a broader rule for my work: when I build something with
 
 If you want to help, the biggest challenges are small-part extraction, consistent geometry across angles, hidden-part reconstruction, and repeatable validation of the final Character Animator rig.
 
-The source is available on GitHub under the MIT License. Fork it, break it, improve it, and take it farther.
+The source is available at https://github.com/zonfar/character-creator-comfyui under the MIT License. Fork it, break it, improve it, and take it farther.
